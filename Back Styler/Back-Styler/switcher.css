@@ -1,0 +1,144 @@
+/* *****************
+**********************
+Author:Vivek Kumar
+Copyright:Vivek Kumar 
+**********************
+********************/
+
+#name
+{
+	border-bottom:1px solid gainsboro;
+	background:darkcyan;
+	height:30px;
+	text-align:center;
+	font-size:20px;
+	
+}
+
+.green{background-color:green;}
+				
+.orange{background-color:orange;}
+				
+.pink{background-color:pink;}
+
+.yellow{background:yellow;}
+
+.black{background:black;}
+
+.red{background:red;}
+
+.blue{background:blue;}
+
+.aqua{background:aqua;}
+
+.teal{background:teal;}
+
+.brown{background:brown;}
+
+.darkgray{background:darkgray;}
+
+.lime{background:lime;}
+
+.navy{background:navy;}
+
+.olive{background:olive;}
+
+.khaki{background:khaki;}
+
+.magenta{background:magenta;}
+
+.maroon{background:maroon;}
+
+.lightsteelblue{background:lightsteelblue;}
+
+.mistyrose{background:mistyrose;}
+
+.palegreen{background:palegreen;}
+
+.plum{background:plum;}
+
+.silver{background:silver;}
+
+.tomato{background:tomato;}
+
+.turquoise{background:turquoise;}
+
+				
+.style-switcher-hide{z-index:10;background:cadetblue;border:gainsboro 1px solid;border-left:none;border-top-right-radius:10px;border-bottom-right-radius:10px;
+width:150px; height:250px; position:absolute;left:-140px;top:30%;}
+				
+.style-switcher-show{z-index:10;background:cadetblue;border:gainsboro 1px solid;border-left:none;border-top-right-radius:10px;border-bottom-right-radius:10px;
+width:150px; height:250px;position:absolute;left:0px;top:30%;}
+				
+button{width:20px;height:20px}
+				
+#switcher{position:absolute;background:url('/switch.png');right:-30px; top:-30px; width:50px;}
+
+/**** Css for colors ***/
+
+#green{background:green;margin:2px;float:left;cursor:pointer;}
+#orange{background:orange;margin:2px;float:left;cursor:pointer;}
+#pink{background:pink;margin:2px; float:left;cursor:pointer;}
+#yellow{background:yellow;margin:2px;float:left;cursor:pointer;}
+#black{background:black;margin:2px;float:left;cursor:pointer;}
+#red{background:red;margin:2px;float:left;cursor:pointer;}
+#blue{background:blue;margin:2px;float:left;cursor:pointer;}
+#aqua{background:aqua;margin:2px;float:left;cursor:pointer;}
+#teal{background:teal;margin:2px;float:left;cursor:pointer;}
+#brown{background:brown;margin:2px;float:left;cursor:pointer;}
+#darkgray{background:darkgray;margin:2px;float:left;cursor:pointer;}
+#lime{background:lime;margin:2px;float:left;cursor:pointer;}
+#navy{background:navy;margin:2px;float:left;cursor:pointer;}
+#olive{background:olive;margin:2px;float:left;cursor:pointer;}
+#khaki{background:khaki;margin:2px;float:left;cursor:pointer;}
+#magenta{background:magenta;margin:2px;float:left;cursor:pointer;}
+#maroon{background:maroon;margin:2px;float:left;cursor:pointer;}
+#lightsteelblue{background:lightsteelblue;margin:2px;float:left;cursor:pointer;}
+#mistyrose{background:mistyrose;margin:2px;float:left;cursor:pointer;}
+#palegreen{background:palegreen;margin:2px;float:left;cursor:pointer;}
+#plum{background:plum;margin:2px;float:left;cursor:pointer;}
+#silver{background:silver;margin:2px;float:left;cursor:pointer;}
+#tomato{background:tomato;margin:2px;float:left;cursor:pointer;}
+#turquoise{background:turquoise;margin:2px;float:left;cursor:pointer;}
+
+
+.clicked
+{
+	border:black 1px solid;
+}
+
+/****css for textures ****/
+
+
+#t1, #t2, #t3, #t4, #t5, #t6, #t7, #t8, #t9, #t10, #t11, #t12, #t13, #t14, #t15, #t16, #t17, #t18, #t19, #t20, #t21, #t22, #t23, #t24 
+{
+ width:20px;
+ height:20px;
+ cursor:pointer;
+ margin:2px;
+}
+.t1{background:url(texture/1.jpg) repeat;}
+.t2{background:url(texture/2.jpg) repeat;}
+.t3{background:url(texture/3.jpg) repeat;}
+.t4{background:url(texture/4.jpg) repeat;}
+.t5{background:url(texture/5.jpg) repeat;}
+.t6{background:url(texture/6.jpg) repeat;}
+.t7{background:url(texture/7.jpg) repeat;}
+.t8{background:url(texture/8.jpg) repeat;}
+.t9{background:url(texture/9.jpg) repeat;}
+.t10{background:url(texture/10.jpg) repeat;}
+.t11{background:url(texture/11.jpg) repeat;}
+.t12{background:url(texture/12.jpg) repeat;}
+.t13{background:url(texture/13.jpg) repeat;}
+.t14{background:url(texture/14.jpg) repeat;}
+.t15{background:url(texture/15.jpg) repeat;}
+.t16{background:url(texture/16.jpg) repeat;}
+.t17{background:url(texture/17.jpg) repeat;}
+.t18{background:url(texture/18.jpg) repeat;}
+.t19{background:url(texture/19.jpg) repeat;}
+.t20{background:url(texture/20.jpg) repeat;}
+.t21{background:url(texture/21.jpg) repeat;}
+.t22{background:url(texture/22.jpg) repeat;}
+.t23{background:url(texture/23.jpg) repeat;}
+.t24{background:url(texture/24.jpg) repeat;}
+		
